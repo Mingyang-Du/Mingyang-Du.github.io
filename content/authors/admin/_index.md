@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mingyang Du
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 杜名阳
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mingyang
+last_name: Du
 
 # Status emoji
 status:
@@ -17,35 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Huazhong University of Science & Technology (HUST)
+    url: https://www.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AIGC etc.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Dumingyang142323@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+  - icon: github
+    url: https://github.com/Mingyang-Du
+    label: My github
+  
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
+  - icon: weixin
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
